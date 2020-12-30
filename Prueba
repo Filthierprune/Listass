@@ -6,6 +6,10 @@ https://live.televisiongratishd.com/tvplus2021/42_.m3u8?token=lXFl2ybPDF8CRDKuh_
 https://live.televisiongratishd.com/tvplus2021/76_.m3u8?token=APcmXV8KReCc1hRGqPlxHg&expires=1609361464&ip=45.238.182.230
 #EXTM3U
 #EXTINF:-3, WARNER 
-https://live.televisiongratishd.com/tvplus2021/40_.m3u8?token=fdMOVjPPCr-NutbMFqWJrAip=45.238.182.230
+https://live.televisiongratishd.com/tvplus2021/40_.m3u8?token=fdMOVjPPCr-NutbMFqWJrA&expires=1609361539&ip=45.238.182.230
 #EXTM3U
-#EXTINF:-4, 
+#EXTINF:-4, HBO
+https://live.televisiongratishd.com/tvplus2021/31_.m3u8?token=UAHjTd9rGelkHB69NTqOOg&expires=1609361876&ip=45.238.182.230
+#EXTM3U
+#EXTINF:-5,
+<iframe align="middle" src="//www.sintelevisor.com/tv/canal/cartoonnetwork.php" frameborder="0" style="border:0; width:800px; height:450px;" scrolling="No" alt="sintelevisor.com television en vivo online"></iframe>
