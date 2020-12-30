@@ -3,7 +3,7 @@
 https://live.televisiongratishd.com/tvplus2021/42_.m3u8?token=lXFl2ybPDF8CRDKuh_ENPw&expires=1609361363&ip=45.238.182.230
 #EXTM3U
 #EXTINF:-2, TNT SERIES
-https://live.televisiongratishd.com/tvplus2021/76_.m3u8?token=APcmXV8KReCc1hRGqPlxHg&expires=1609361464&ip=45.238.182.230
+https://e6euzdxur6xfs839.ezcdn483.net:8443/hls/uw2t3eem.m3u8?s=bnH0gdLIntDDRiXtifT_xA&e=1609367224
 #EXTM3U
 #EXTINF:-3, WARNER 
 https://live.televisiongratishd.com/tvplus2021/40_.m3u8?token=fdMOVjPPCr-NutbMFqWJrA&expires=1609361539&ip=45.238.182.230
@@ -16,3 +16,9 @@ https://e6euzdxur6xfs839.ezcdn483.net:8443/hls/1feji.m3u8?s=t3Y8X4BN_p6PszChTc7h
 #EXTM3U
 #EXTINF:-6,SONY
 https://e6euzdxur6xfs839.ezcdn483.net:8443/hls/oc2v2i6j.m3u8?s=e39wsqk3gRcQ77gIrLVyQA&e=1609362907
+#EXTM3U
+#EXTINF:-7,FOX PREMIUM
+https://e6euzdxur6xfs839.ezcdn483.net:8443/hls/in515ybo3y.m3u8?s=yFESgZnrNnB9QiwhkWtDUA&e=1609367100
+#EXTM3U
+#EXTINF:-8, TLC
+https://e6euzdxur6xfs839.ezcdn483.net:8443/hls/yfbm3.m3u8?s=A1yPlxUZN-IJzB0OP1T53w&e=1609367267
