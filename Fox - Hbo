@@ -1,12 +1,33 @@
 #EXTM3U
 #EXTINF:-1, FOX CHANNEL
-https://q88nf9xcc8jnm56s.ezcdn483.net:8443/hls/0e733j.m3u8?s=T9fFWh3qSCN78TZvcfQmAw&e=1614472978
+https://q88nf9xcc8jnm56s.ezcdn483.net:8443/hls/0e733j.m3u8?s=2eA58jL9leY6UZ2L1uMuOQ&e=1614545691
 #EXTM3U
 #EXTINF:-2, FOX ACTION
-https://q88nf9xcc8jnm56s.ezcdn483.net:8443/hls/4612rwe.m3u8?s=VlM8soZ6Gx6FwWWivyZR1Q&e=1614473069
+https://q88nf9xcc8jnm56s.ezcdn483.net:8443/hls/4612rwe.m3u8?s=TfS5-Tt8QEEbefX8uQA38w&e=1614545735
 #EXTM3U
 #EXTINF:-3, FOX SERIES
-https://q88nf9xcc8jnm56s.ezcdn483.net:8443/hls/in515ybo3y.m3u8?s=he21bCnBD4ZBlce5ykjsNA&e=1614473929
+https://q88nf9xcc8jnm56s.ezcdn483.net:8443/hls/in515ybo3y.m3u8?s=y9Lvow-20vZ9qostEzer3w&e=1614545766
 #EXTM3U
-#EXTINF:-4, HBO PLUS
-https://q88nf9xcc8jnm56s.ezcdn483.net:8443/hls/3dgzjbpy.m3u8?s=bU4AwXV-VjP0_0Qdv9Qtvg&e=1614474404
+#EXTINF:-4, GOLDEN HD
+https://q88nf9xcc8jnm56s.ezcdn483.net:8443/hls/lnxn10nmtnl5.m3u8?s=0VYM6m1PGoXDnfQmRRur-w&e=1614545802
+#EXTM3U
+#EXTINF:-5, CINECANAL
+https://q88nf9xcc8jnm56s.ezcdn483.net:8443/hls/ymv0a1aobkxuf.m3u8?s=3axWGMFAijAVOO0pdoVmBQ&e=1614545857
+#EXTM3U
+#EXTINF:-6, TNT
+https://q88nf9xcc8jnm56s.ezcdn483.net:8443/hls/glaldsq.m3u8?s=cxX7PRFFiB_LE4MF6PIGhw&e=1614545915
+#EXTM3U
+#EXTINF:-7, TNT SERIES
+https://q88nf9xcc8jnm56s.ezcdn483.net:8443/hls/uw2t3eem.m3u8?s=PifSZKK9RkWIPsQ2yWVuzQ&e=1614545964
+#EXTM3U
+#EXTINF:-8, FX
+https://q88nf9xcc8jnm56s.ezcdn483.net:8443/hls/3cuvpp5n.m3u8?s=-_HkwhH5FMtmpiWaVNHmgg&e=1614546011
+#EXTM3U
+#EXTINF:-9, SPACE
+https://q88nf9xcc8jnm56s.ezcdn483.net:8443/hls/me4gtt8v3fmket.m3u8?s=zIU4cdCCIblk7isGxS0bIw&e=1614546039
+#EXTM3U
+#EXTINF:-10, STUDIO UNIVERSAL
+https://q88nf9xcc8jnm56s.ezcdn483.net:8443/hls/rdz85fjy0wuhhv.m3u8?s=7hG_5t2pBUWAviSrJTF0iA&e=1614546142
+#EXTM3U
+#EXTINF:-11, WARNER CHANNEL
+https://q88nf9xcc8jnm56s.ezcdn483.net:8443/hls/j5uwhfb7w5c.m3u8?s=9uQsopy_akhRq1BfS06eRQ&e=1614546192
